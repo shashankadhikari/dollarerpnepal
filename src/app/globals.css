@@ -19,3 +19,11 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.elementor-element.elementor-element-01260e2:not(.elementor-motion-effects-element-type-background), .elementor-402 .elementor-element.elementor-element-01260e2 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+  background-color: #F7F6F6 !important;
+  background-image: url(https://dollarerp.com/wp-content/uploads/2023/10/slide-background.png) !important;
+  background-position: 0px -678px !important;
+  background-repeat: no-repeat !important;
+  background-size: 100% auto !important;
+}
